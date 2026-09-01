@@ -1,3 +1,4 @@
+
 # Mall Customer Analysis
 
 ## 📌 Project Overview
@@ -82,3 +83,7 @@ Through this project, I gained practical experience in:
 **Pramod Vusa**
 
 B.Tech – Artificial Intelligence & Data Science
+<img width="914" height="952" alt="Screenshot 2026-09-01 172007" src="https://github.com/user-attachments/assets/075b7504-582a-43c7-bca3-20b87dd7efae" />
+<img width="1920" height="1080" alt="Screenshot 2026-09-01 171956" src="https://github.com/user-attachments/assets/bf40649d-3adb-44bf-85a1-d999102dfb72" />
+<img width="1761" height="958" alt="Screenshot 2026-09-01 171925" src="https://github.com/user-attachments/assets/f15c3689-6354-42e9-babc-816b0fb45139" />
+
