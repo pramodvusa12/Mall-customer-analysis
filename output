@@ -1,0 +1,11 @@
+The program displays the basic analysis and visualizations of the mall customer dataset.
+
+Dataset contains 250 customers and 5 columns.
+Average customer age is 38.49 years.
+Customer gender count:
+Female: 137
+Male: 113
+Average annual income is 95.59 k$.
+Displays an Age Distribution histogram to understand customer age patterns.
+Displays an Income vs Spending Score scatter plot to analyze customer spending behavior.
+Creates customer segments based on income and spending score.
